@@ -18,6 +18,12 @@ E-commerce customer transaction data including product categories and revenue.
 ## Outcome
 Built a clean and structured dashboard to visualize customer trends and business insights.
 
-## Dashboard Preview
-![Dashboard](outputs/dashboard_preview.jpeg)
-![Dashboard](outputs/dashboard_preview1.jpeg)
+## 📊 Dashboard Preview
+
+### Revenue by Product Category
+![Revenue Chart](outputs/dashboard_preview.jpeg)
+
+### Customer Expenditures
+![Customer Chart](outputs/dashboard_preview1.jpeg)
+
+This dashboard highlights revenue distribution across product categories and identifies high-value customers.
