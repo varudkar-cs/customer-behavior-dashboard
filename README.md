@@ -11,13 +11,13 @@ E-commerce customer transaction data including product categories and revenue.
 ## Key Insights
 - Fragrance category generates the highest revenue, indicating strong demand for premium products.
 - Customer C002 contributes the highest revenue, identifying a high-value repeat customer segment.
-\
-## Tools Used\
-- Microsoft Excel (Pivot Tables, Charts)\
-\
-## Outcome\
-Built a clean and structured dashboard to visualize customer trends and business insights.}
+
+## Tools Used
+- Microsoft Excel (Pivot Tables, Charts)
+
+## Outcome
+Built a clean and structured dashboard to visualize customer trends and business insights.
 
 ## Dashboard Preview
-![Dashboard](outputs/dashboard_preview.png)
-![Dashboard](outputs/dashboard_preview1.png)
+![Dashboard](outputs/dashboard_preview.jpeg)
+![Dashboard](outputs/dashboard_preview1.jpeg)
